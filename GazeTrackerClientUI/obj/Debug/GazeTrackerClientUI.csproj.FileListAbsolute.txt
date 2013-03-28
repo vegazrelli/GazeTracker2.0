@@ -1,0 +1,54 @@
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackerClientUI.exe
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackerClientUI.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\EventNotifierControl.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\Style\style_iphone.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\App.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\ClientUI.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\EventNotifierControl.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\App.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI_MarkupCompile.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI_MarkupCompile.lref
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\ClientUI.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.g.resources
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.Properties.Resources.resources
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.csproj.GenerateResource.Cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.exe
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackerClientUI.exe
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackerClientUI.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\EventNotifierControl.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\Style\style_iphone.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\App.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\ClientUI.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\EventNotifierControl.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\App.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI_MarkupCompile.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI_MarkupCompile.lref
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\ClientUI.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.g.resources
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.Properties.Resources.resources
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.csproj.GenerateResource.Cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.exe
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackerClientUI.exe
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackerClientUI.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\EventNotifierControl.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\Style\style_iphone.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\App.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\ClientUI.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\EventNotifierControl.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\App.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI_MarkupCompile.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI_MarkupCompile.lref
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\ClientUI.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.g.resources
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.Properties.Resources.resources
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.csproj.GenerateResource.Cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.exe
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClientUI\obj\Debug\GazeTrackerClientUI.pdb

@@ -1,0 +1,15 @@
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackerClient.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackerClient.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClient\obj\Debug\GazeTrackerClient.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClient\obj\Debug\GazeTrackerClient.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerClient\obj\Debug\GazeTrackerClient.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackerClient.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackerClient.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClient\obj\Debug\GazeTrackerClient.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClient\obj\Debug\GazeTrackerClient.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerClient\obj\Debug\GazeTrackerClient.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackerClient.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackerClient.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClient\obj\Debug\GazeTrackerClient.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClient\obj\Debug\GazeTrackerClient.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerClient\obj\Debug\GazeTrackerClient.pdb

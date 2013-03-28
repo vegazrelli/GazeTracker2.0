@@ -1,0 +1,26 @@
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\Alchemy.config
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\WSComUI.exe
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\WSComUI.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSComUI\obj\Debug\WSComUI.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSComUI\obj\Debug\MainWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSComUI\obj\Debug\MainWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSComUI\obj\Debug\App.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSComUI\obj\Debug\WSComUI_MarkupCompile.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSComUI\obj\Debug\WSComUI.g.resources
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSComUI\obj\Debug\WSComUI.Properties.Resources.resources
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSComUI\obj\Debug\WSComUI.csproj.GenerateResource.Cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSComUI\obj\Debug\WSComUI.exe
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSComUI\obj\Debug\WSComUI.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\WSComUI.exe
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\WSComUI.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSComUI\obj\Debug\WSComUI.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSComUI\obj\Debug\MainWindow.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSComUI\obj\Debug\MainWindow.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSComUI\obj\Debug\App.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSComUI\obj\Debug\WSComUI_MarkupCompile.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSComUI\obj\Debug\WSComUI.g.resources
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSComUI\obj\Debug\WSComUI.Properties.Resources.resources
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSComUI\obj\Debug\WSComUI.csproj.GenerateResource.Cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSComUI\obj\Debug\WSComUI.exe
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSComUI\obj\Debug\WSComUI.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\Alchemy.config

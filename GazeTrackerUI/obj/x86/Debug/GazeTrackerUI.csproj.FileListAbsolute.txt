@@ -1,0 +1,204 @@
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackerUI.exe.log4net
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackerUI.exe.config
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackerUI.exe.manifest
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackerUI.application
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackerUI.exe
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackerUI.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\VisualGazePoint.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationMenuUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationFeedbackPoint.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationPoint.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\SharingControlUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\MessageWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Settings\CameraIconUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Settings\IlluminationEllipseUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Style\Simple Styles.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Style\style_datagrid.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Style\style_iphone.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Style\style_iphonesmall.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Style\style_tabcontrol.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Tools\ColorPickerUserControl.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\TrackerViewer\PerformanceCountersUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\TrackerViewer\TrackBoxUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\App.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\VisualGazePoint.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationMenuUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationControl.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationFeedbackPoint.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationPoint.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\SharingControlUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\MenubarIconsUserControl.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\MessageWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Settings\CameraIconUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Settings\ComponentPlacingWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Settings\IlluminationEllipseUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Settings\SettingsWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Tools\ColorPickerUserControl.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Tools\CrosshairDriver.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\TrackerViewer\PerformanceCountersUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\TrackerViewer\TrackBoxUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageControl.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUIMainWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageOverlay.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoViewer.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\App.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI_Content.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI_MarkupCompile.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI_MarkupCompile.lref
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationControl.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\MenubarIconsUserControl.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Settings\ComponentPlacingWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Settings\SettingsWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Style\style_editslider.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\Tools\CrosshairDriver.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageControl.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUIMainWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageOverlay.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoViewer.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.g.resources
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.Properties.Resources.resources
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.csproj.GenerateResource.Cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.exe.manifest
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.application
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.exe
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackerUI.exe.log4net
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackerUI.exe.config
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackerUI.exe.manifest
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackerUI.application
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackerUI.exe
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackerUI.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\VisualGazePoint.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationMenuUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationFeedbackPoint.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationPoint.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\SharingControlUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\MessageWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\CameraIconUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\IlluminationEllipseUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\Simple Styles.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\style_datagrid.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\style_iphone.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\style_iphonesmall.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\style_tabcontrol.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Tools\ColorPickerUserControl.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\PerformanceCountersUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\TrackBoxUC.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\App.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\VisualGazePoint.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationMenuUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationControl.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationFeedbackPoint.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationPoint.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\SharingControlUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\MenubarIconsUserControl.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\MessageWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\CameraIconUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\ComponentPlacingWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\IlluminationEllipseUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\SettingsWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Tools\ColorPickerUserControl.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Tools\CrosshairDriver.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\PerformanceCountersUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\TrackBoxUC.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageControl.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUIMainWindow.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageOverlay.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoViewer.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\App.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI_Content.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI_MarkupCompile.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI_MarkupCompile.lref
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationControl.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\MenubarIconsUserControl.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\ComponentPlacingWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\SettingsWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\style_editslider.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\Tools\CrosshairDriver.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageControl.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUIMainWindow.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageOverlay.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoViewer.baml
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.g.resources
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.Properties.Resources.resources
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.csproj.GenerateResource.Cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.exe.manifest
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.application
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.exe
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackerUI.exe.log4net
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackerUI.exe.config
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackerUI.exe.manifest
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackerUI.application
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackerUI.exe
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackerUI.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\VisualGazePoint.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationMenuUC.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationFeedbackPoint.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationPoint.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\SharingControlUC.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\MessageWindow.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\CameraIconUC.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\IlluminationEllipseUC.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\Simple Styles.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\style_datagrid.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\style_iphone.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\style_iphonesmall.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\style_tabcontrol.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Tools\ColorPickerUserControl.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\PerformanceCountersUC.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\TrackBoxUC.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\App.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\VisualGazePoint.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationMenuUC.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationWindow.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationControl.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationFeedbackPoint.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationPoint.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\SharingControlUC.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\MenubarIconsUserControl.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\MessageWindow.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\CameraIconUC.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\ComponentPlacingWindow.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\IlluminationEllipseUC.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\SettingsWindow.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Tools\ColorPickerUserControl.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Tools\CrosshairDriver.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\PerformanceCountersUC.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\TrackBoxUC.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageControl.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUIMainWindow.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageOverlay.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoViewer.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\App.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI_Content.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI_MarkupCompile.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI_MarkupCompile.lref
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationWindow.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Calibration\CalibrationControl.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\MenubarIconsUserControl.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\ComponentPlacingWindow.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Settings\SettingsWindow.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Style\style_editslider.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\Tools\CrosshairDriver.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageControl.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUIMainWindow.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoImageOverlay.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\TrackerViewer\VideoViewer.baml
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.g.resources
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.Properties.Resources.resources
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.csproj.GenerateResource.Cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.exe.manifest
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.application
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.exe
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.pdb
