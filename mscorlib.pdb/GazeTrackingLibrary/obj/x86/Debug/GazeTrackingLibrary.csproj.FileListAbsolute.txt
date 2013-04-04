@@ -1,0 +1,15 @@
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackingLibrary.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackingLibrary.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackingLibrary.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackingLibrary.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackingLibrary.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackingLibrary.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.pdb

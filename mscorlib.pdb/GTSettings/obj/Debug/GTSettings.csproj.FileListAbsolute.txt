@@ -1,0 +1,15 @@
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GTSettings.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GTSettings.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GTSettings\obj\Debug\GTSettings.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GTSettings\obj\Debug\GTSettings.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GTSettings\obj\Debug\GTSettings.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GTSettings.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GTSettings.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTSettings\obj\Debug\GTSettings.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTSettings\obj\Debug\GTSettings.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTSettings\obj\Debug\GTSettings.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GTSettings.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GTSettings.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTSettings\obj\Debug\GTSettings.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTSettings\obj\Debug\GTSettings.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTSettings\obj\Debug\GTSettings.pdb

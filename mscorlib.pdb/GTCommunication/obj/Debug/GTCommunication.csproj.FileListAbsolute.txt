@@ -1,0 +1,16 @@
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GazeTrackingData.xsd
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GTCommunication.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GTCommunication.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GTCommunication\obj\Debug\GTCommunication.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GTCommunication\obj\Debug\GTCommunication.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GazeTrackingData.xsd
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GTCommunication.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GTCommunication.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTCommunication\obj\Debug\GTCommunication.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTCommunication\obj\Debug\GTCommunication.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTCommunication\obj\Debug\GTCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GazeTrackingData.xsd
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GTCommunication.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GTCommunication.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTCommunication\obj\Debug\GTCommunication.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTCommunication\obj\Debug\GTCommunication.pdb

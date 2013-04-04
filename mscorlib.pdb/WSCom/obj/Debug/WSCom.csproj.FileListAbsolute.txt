@@ -1,0 +1,12 @@
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\Alchemy.config
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\WSCom.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\WSCom.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSCom\obj\Debug\WSCom.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSCom\obj\Debug\WSCom.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\WSCom\obj\Debug\WSCom.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\Alchemy.config
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\WSCom.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\WSCom.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSCom\obj\Debug\WSCom.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSCom\obj\Debug\WSCom.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\WSCom\obj\Debug\WSCom.pdb

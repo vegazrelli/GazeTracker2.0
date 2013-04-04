@@ -1,0 +1,20 @@
+﻿GazeTrackerUI
+
+
+winexe
+C#
+.cs
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\
+GazeTrackerUI
+none
+false
+TRACE;DEBUG
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\App.xaml
+27-1339849218
+1-1552839074
+38181208709
+24-870491500
+Calibration\VisualGazePoint.xaml;Calibration\CalibrationMenuUC.xaml;Calibration\CalibrationWindow.xaml;Calibration\CalibrationControl.xaml;Calibration\CalibrationFeedbackPoint.xaml;Calibration\CalibrationPoint.xaml;Calibration\SharingControlUC.xaml;MenubarIconsUserControl.xaml;MessageWindow.xaml;Settings\CameraIconUC.xaml;Settings\ComponentPlacingWindow.xaml;Settings\IlluminationEllipseUC.xaml;Settings\SettingsWindow.xaml;Style\style_editslider.xaml;Style\Simple Styles.xaml;Style\style_datagrid.xaml;Style\style_iphone.xaml;Style\style_iphonesmall.xaml;Style\style_tabcontrol.xaml;Tools\ColorPickerUserControl.xaml;Tools\CrosshairDriver.xaml;TrackerViewer\PerformanceCountersUC.xaml;TrackerViewer\TrackBoxUC.xaml;TrackerViewer\VideoImageControl.xaml;GazeTrackerUIMainWindow.xaml;TrackerViewer\VideoImageOverlay.xaml;TrackerViewer\VideoViewer.xaml;
+
+False
+

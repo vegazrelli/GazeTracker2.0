@@ -1,0 +1,15 @@
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GTHardware.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GTHardware.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GTHardware\obj\Debug\GTHardware.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GTHardware\obj\Debug\GTHardware.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GTHardware\obj\Debug\GTHardware.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GTHardware.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GTHardware.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTHardware\obj\Debug\GTHardware.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTHardware\obj\Debug\GTHardware.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTHardware\obj\Debug\GTHardware.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GTHardware.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GTHardware.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTHardware\obj\Debug\GTHardware.csprojResolveAssemblyReference.cache
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTHardware\obj\Debug\GTHardware.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTHardware\obj\Debug\GTHardware.pdb

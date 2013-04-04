@@ -1,0 +1,13 @@
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GTCommons.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\Debug\GTCommons.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GTCommons\obj\Debug\GTCommons.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT original\GTCommons\obj\Debug\GTCommons.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GTCommons.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\Debug\GTCommons.pdb
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTCommons\obj\Debug\GTCommons.dll
+C:\Users\Nicola\Desktop\Gaze Tracking\GT 2.0\GTCommons\obj\Debug\GTCommons.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GTCommons.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\Debug\GTCommons.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTCommons\obj\Debug\GTCommons.dll
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTCommons\obj\Debug\GTCommons.pdb
+C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GTCommons\obj\Debug\GTCommons.csprojResolveAssemblyReference.cache

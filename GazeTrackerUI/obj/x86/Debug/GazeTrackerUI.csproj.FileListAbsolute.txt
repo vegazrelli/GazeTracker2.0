@@ -202,3 +202,6 @@ C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x
 C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.application
 C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.exe
 C:\Users\Nicola\Documents\Visual Studio 2012\Projects\GT 2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.pdb
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\GazeTracker2.0\Debug\GazeTrackerUI.exe.config
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\GazeTracker2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.exe
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\GazeTracker2.0\GazeTrackerUI\obj\x86\Debug\GazeTrackerUI.pdb
